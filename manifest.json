@@ -1,0 +1,42 @@
+{
+  "name": "Sistem Informasi Sekolah - SMP Bhakti Pertiwi",
+  "short_name": "SI-LMS",
+  "description": "LMS & Sistem Informasi Sekolah SMP Bhakti Pertiwi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Buka Aplikasi",
+      "short_name": "Buka",
+      "description": "Langsung ke Dashboard",
+      "url": "./"
+    }
+  ]
+}
